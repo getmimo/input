@@ -1,6 +1,6 @@
 {
-  "name": "@mimo-org/input-sync",
-  "version": "0.0.1",
+  "name": "@mimo-org/input",
+  "version": "1.0.0",
   "description": "A simple, synchronous input function to read from stdin, inspired by Python's input()",
   "author": "Dennis Daume <dennis@mimo.org>",
   "license": "MIT",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/getmimo/input-sync.git"
+    "url": "git+https://github.com/getmimo/input.git"
   },
   "keywords": [
     "stdin",
